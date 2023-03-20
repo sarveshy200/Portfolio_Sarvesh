@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Sarvesh/static/css/main.a5e8e0d2.css",
+    "main.js": "/Portfolio_Sarvesh/static/js/main.f030ac61.js",
+    "static/media/pngwing.com.png": "/Portfolio_Sarvesh/static/media/pngwing.com.2acd960abf0e7904f21c.png",
+    "static/media/LuLogo.jpg": "/Portfolio_Sarvesh/static/media/LuLogo.da28c2d19e655f6032d4.jpg",
+    "static/media/PersonalPhoto.png": "/Portfolio_Sarvesh/static/media/PersonalPhoto.d527645eb0e2627bbc93.png",
+    "static/media/project-cover10.png": "/Portfolio_Sarvesh/static/media/project-cover10.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Experience.png": "/Portfolio_Sarvesh/static/media/Experience.1c6d3473b6eaf6874488.png",
+    "index.html": "/Portfolio_Sarvesh/index.html",
+    "main.a5e8e0d2.css.map": "/Portfolio_Sarvesh/static/css/main.a5e8e0d2.css.map",
+    "main.f030ac61.js.map": "/Portfolio_Sarvesh/static/js/main.f030ac61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e8e0d2.css",
+    "static/js/main.f030ac61.js"
+  ]
+}
