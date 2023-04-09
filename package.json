@@ -1,5 +1,5 @@
 {
-  
+  "homepage":"http://sarveshy200.github.io/Portfolio_Sarvesh",
   "name": "personal-portfolio",
   
   "version": "0.1.0",
@@ -61,21 +61,11 @@
   
     
   "start": "react-scripts start",
-  
-    
-
-  
-    
+  "predeploy":"npm run build",
+  "deploy":"gh-pages -d build",
   "build": "react-scripts build",
-  
-    
-  "test": "react-scripts test",
-  
-    
+  "test": "react-scripts test",  
   "eject": "react-scripts eject"
-  
-
-  
   },
   
   "eslintConfig": {
